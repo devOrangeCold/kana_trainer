@@ -5,7 +5,7 @@ kana_trainer
 `The BeeWare Project`_. **If you want to see more tools like Briefcase, please
 consider** `becoming a financial member of BeeWare`_.
 
-kana trainer, practice katakana and hiragana
+kana trainer, practice quick recognition of Katanaka and Hiragana characters
 
 .. _`Briefcase`: https://briefcase.readthedocs.io/
 .. _`The BeeWare Project`: https://beeware.org/
